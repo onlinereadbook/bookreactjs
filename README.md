@@ -6,4 +6,4 @@
 
 ### [其他線上讀書會](http://goo.gl/mQbjWw)
 
-### [線上電子書參考](http://goo.gl/DGyxo1)
+### [線上電子書參考](http://goo.gl/VxQ0ab)
