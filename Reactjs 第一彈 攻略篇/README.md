@@ -35,7 +35,16 @@
 [並且補充了一些工具]
 (https://www.youtube.com/watch?v=qdUlfiDbCcI&feature=youtu.be)
 
-之後因為有james有demo reactjs native 大家看了都流口水了,所以有趣邀請到 chunghe fang 大大 來講兩篇react-native
+之後因為有james 大大 有demo reactjs native 大家看了都流口水了,所以有趣邀請到 chunghe fang 大大 來講兩篇react-native
 [一篇是 實戰 - 鉅亨網 app](https://youtu.be/NEmQAC9IMLk)
+[簡報](https://docs.google.com/presentation/d/1F27AKUZMgoaenTz0xqRCaDp2rbWgjRRzMtAU8Ubm9t8/edit#slide=id.p)
+
 [另外一篇是react-native-svg/d3 分享]
 (https://youtu.be/qeB0pEIajbU)
+[簡報](https://github.com/chunghe/React-Native-Stock-Chart)
+
+
+[後來還有邀請到林楊興大大來講一篇Universal Rendering with React/Redux 用簡單的話語不多程式碼揭開神秘的面紗也更了解到Isomorphic是什麼了](https://youtu.be/xoMGdasN6cw)
+
+
+# react成長營故事歡迎大家一起來互通有無
