@@ -6,6 +6,6 @@
 
 ### [其他線上讀書會](http://goo.gl/mQbjWw)
 
-### [線上電子書參考](http://goo.gl/VxQ0ab)
+### [主線攻略JsonGithubTodoList](http://goo.gl/VxQ0ab)
 
 ### 本會幫幫忙活動 與 願望清單 請直接跟 polo連絡
