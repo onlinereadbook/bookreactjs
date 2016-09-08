@@ -47,4 +47,11 @@
 [後來還有邀請到林楊興大大來講一篇Universal Rendering with React/Redux 用簡單的話語不多程式碼揭開神秘的面紗也更了解到Isomorphic是什麼了](https://youtu.be/xoMGdasN6cw)
 
 
+[A組由紀相安(就是我拉)幫大家攻略最終章終於攻略完畢複習了箭頭函數跟bind還有react元件週期method,恭喜大家都升為B或C組嚕](https://www.youtube.com/watch?v=1z7o9mHLrK0&feature=youtu.be)
+
+[緊接著由bruce幫大家講B組的flux 第19章節container的用法非常實用](https://www.youtube.com/watch?v=hxtU9-3ZaSU&feature=youtu.be)
+
+[B組allen攻略到redux第一章用他自己看過很多影片的最後歸納的心得來做分享,用自己的語言講解果然是讓大家最容易懂的,很讚的一篇](https://youtu.be/upq6WEAAE3Y)
+
+
 # react成長營故事歡迎大家一起來互通有無
