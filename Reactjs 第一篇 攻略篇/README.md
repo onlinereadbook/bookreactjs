@@ -53,5 +53,7 @@
 
 [B組allen攻略到redux第一章用他自己看過很多影片的最後歸納的心得來做分享,用自己的語言講解果然是讓大家最容易懂的,很讚的一篇](https://youtu.be/upq6WEAAE3Y)
 
+[番外篇 meteor 今天終於見識到meteor強大的火力,max 很精彩的主講閃到了大家的眼睛,講解了運作的方式也用live code 來帶大家走一遍, 難怪star這麼高 ,有機會的話一定要再邀請max 來第二彈 ,真是太精采拉](https://www.youtube.com/watch?v=HNEZ677A7eM)
+
 
 # react成長營故事歡迎大家一起來互通有無
