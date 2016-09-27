@@ -47,4 +47,4 @@
 | Polo | graphql 心得分享Defining Queries | [影片](https://www.youtube.com/watch?v=PcO10aBvnA0&feature=youtu.be) |
 | Polo | graphQL Defining Mutations | [影片](https://www.youtube.com/watch?v=ss1vTRAoj-g&feature=youtu.be) |
 | Howard Chang | Webpack簡介 |  [Blog](https://rhadow.github.io/2015/04/02/webpack-workflow/) [影片](https://www.youtube.com/watch?v=JRIPGi7QUmk) |
-| 張國昭 | Redux + ReactJS | [簡報](http://www.slideshare.net/ssusercab70d/reduxreact-js) |
+| 張國昭 | Redux + ReactJS | [簡報](http://www.slideshare.net/ssusercab70d/reduxreact-js) | [影片] (https://www.youtube.com/watch?v=FAdOex9v6Yw)|
