@@ -23,8 +23,7 @@
 | 主講者 | 章節 | 連結 |
 | ------ | ------ | ------ |
 | Allen | 19 | [影片](https://youtu.be/upq6WEAAE3Y) |
-| James | 20 | --- |
-| Jim | 21 | [影片](https://www.facebook.com/jim20515/videos/10210631281448748/) |
+| Jim | 20 ~ 21 | [影片](https://www.facebook.com/jim20515/videos/10210631281448748/) |
 | Jeff（王建傑) | 22 | --- |
 | Arthur | 23 | --- |
 
