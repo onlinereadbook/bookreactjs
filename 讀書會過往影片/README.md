@@ -38,13 +38,13 @@
 | 主講者 | 主題 | 連結 |
 | ------ | ------ | ------ |
 | Chunghe Fang | react-native 實戰 - 鉅亨網 app | [簡報](https://docs.google.com/presentation/d/1F27AKUZMgoaenTz0xqRCaDp2rbWgjRRzMtAU8Ubm9t8/edit#slide=id.p) [影片](https://youtu.be/NEmQAC9IMLk) |
-| Chunghe Fang | react-native-svg/d3 分享 | [簡報](https://github.com/chunghe/React-Native-Stock-Chart) <br /> [影片](https://youtu.be/qeB0pEIajbU) |
+| Chunghe Fang | react-native-svg/d3 分享 | [簡報](https://github.com/chunghe/React-Native-Stock-Chart) [影片](https://youtu.be/qeB0pEIajbU) |
 | 林楊興 | Universal Rendering with React/Redux | [簡報](http://bit.ly/2bwm6Jd) [影片](https://youtu.be/xoMGdasN6cw) |
-| Max | Meteor+React | [影片](https://www.youtube.com/watch?v=HNEZ677A7eM) |
+| Max | Meteor + React | [簡報](http://www.slideshare.net/MaxLi23/introduction-to-meteor-react) [影片](https://www.youtube.com/watch?v=HNEZ677A7eM) |
 | Polo | graphQL | [影片](https://www.youtube.com/watch?v=oi2hfP5WmV8&feature=youtu.be) |
 | 黃彥銘 | git入門到團隊合作 | [簡報](https://www.slideshare.net/secret/retavuvmp0Vbun) [影片](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be) |
 | Polo | graphql 心得分享 Query Variables | [影片](https://www.youtube.com/watch?v=Dt__SbPj5tw&feature=youtu.be) |
 | Polo | graphql 心得分享Defining Queries | [影片](https://www.youtube.com/watch?v=PcO10aBvnA0&feature=youtu.be) |
 | Polo | graphQL Defining Mutations | [影片](https://www.youtube.com/watch?v=ss1vTRAoj-g&feature=youtu.be) |
 | Howard Chang | Webpack簡介 |  [Blog](https://rhadow.github.io/2015/04/02/webpack-workflow/) [影片](https://www.youtube.com/watch?v=JRIPGi7QUmk) |
-| 張國昭 | Redux + ReactJS | [簡報](http://www.slideshare.net/ssusercab70d/reduxreact-js) [影片] (https://www.youtube.com/watch?v=FAdOex9v6Yw)|
+| 張國昭 | Redux + ReactJS | [簡報](http://www.slideshare.net/ssusercab70d/reduxreact-js) [影片](https://www.youtube.com/watch?v=FAdOex9v6Yw)|
