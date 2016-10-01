@@ -23,6 +23,27 @@
 
 一方面讓會友知道業界的開發流程levelup, 另一方面也可以攻略問題
 ```
+## Redux 相關
+Redux Saga 資源
+1. 官方英文文檔
+https://goo.gl/842OA0
+2. 官方中文文檔
+https://goo.gl/C8lJRy
+3. Saga Pattern 在前端的應用
+https://goo.gl/SeSJDc
+4. Handling async in Redux with Sagas
+https://goo.gl/RFN4vH
+5. Build an Image Gallery Using React, Redux and redux-saga
+https://goo.gl/40e2e1
+6. Using redux-saga To Simplify Your Codebase
+https://goo.gl/Kkf3fy
+7. Using redux-saga To Simplify Your Codebase 中文版
+https://goo.gl/T9JdqY
+8. redux-sagaで非同期処理と戦う (日文)
+https://goo.gl/NPyYsE
+補充 :
+1. Generator 函数
+https://goo.gl/jkJ1TF
 
 ## 願望清單
 
