@@ -6,7 +6,7 @@
 | ----- | ----- | :-----: |
 | 週一 | [線上reactjs 讀書會](https://www.facebook.com/groups/906048196159262/) | A組 - 20:00 <br /> B組 - 21:00 |
 | 週二 | [線上nodejs 讀書會 ](https://www.facebook.com/groups/207139586323090/) | 19:30 |
-| 週三 | [線上 docker 讀書會 ](https://www.facebook.com/groups/750311598438135/) | |
+| 週三 | [線上docker 讀書會 ](https://www.facebook.com/groups/750311598438135/) | 19:30 |
 | 週四 | [線上swift 讀書會](https://www.facebook.com/groups/238948643131478/) | 20:00 |
 | 週五 | [線上laravel 讀書會](https://www.facebook.com/groups/956973084383781/) <br /> [線上 unity 讀書會](https://www.facebook.com/groups/1606498833013546/) | 19:30 <br /> 19:30 |
 
