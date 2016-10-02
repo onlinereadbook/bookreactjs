@@ -49,3 +49,5 @@
 | Polo | graphQL Defining Mutations | [[影片](https://www.youtube.com/watch?v=ss1vTRAoj-g&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/23)] |
 | Howard Chang | Webpack簡介 |  [[Blog](https://rhadow.github.io/2015/04/02/webpack-workflow/)] [[影片](https://www.youtube.com/watch?v=JRIPGi7QUmk)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/24)] |
 | 張國昭 | Redux + ReactJS | [[簡報](http://www.slideshare.net/ssusercab70d/reduxreact-js)] [[影片](https://www.youtube.com/watch?v=FAdOex9v6Yw)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/1)] |
+| 周昱安 | Webpack | 暫無  | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/25)] |
+| Andy | NightwachJS + ReactJS todoMVC | [[簡報](https://hackmd.io/p/S1XNx8TT)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/26)] |
