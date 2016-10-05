@@ -44,8 +44,8 @@
 | Max | Meteor+React | [[影片](https://www.youtube.com/watch?v=HNEZ677A7eM)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/18)] |
 | Polo | graphQL | [[影片](https://www.youtube.com/watch?v=oi2hfP5WmV8&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/19)] |
 | 黃彥銘 | git入門到團隊合作 | [[簡報](https://www.slideshare.net/secret/retavuvmp0Vbun)] [[影片](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/20)] |
-| Polo | graphql 心得分享 Query Variables | [[影片](https://www.youtube.com/watch?v=Dt__SbPj5tw&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/21)] |
-| Polo | graphql 心得分享Defining Queries | [[影片](https://www.youtube.com/watch?v=PcO10aBvnA0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/22)] |
+| Polo | graphQL 心得分享 Query Variables | [[影片](https://www.youtube.com/watch?v=Dt__SbPj5tw&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/21)] |
+| Polo | graphQL 心得分享 Defining Queries | [[影片](https://www.youtube.com/watch?v=PcO10aBvnA0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/22)] |
 | Polo | graphQL Defining Mutations | [[影片](https://www.youtube.com/watch?v=ss1vTRAoj-g&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/23)] |
 | Howard Chang | Webpack簡介 |  [[Blog](https://rhadow.github.io/2015/04/02/webpack-workflow/)] [[影片](https://www.youtube.com/watch?v=JRIPGi7QUmk)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/24)] |
 | 張國昭 | Redux + ReactJS | [[簡報](http://www.slideshare.net/ssusercab70d/reduxreact-js)] [[影片](https://www.youtube.com/watch?v=FAdOex9v6Yw)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/1)] |
