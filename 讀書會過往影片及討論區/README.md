@@ -26,8 +26,8 @@
 | Allen | 19 | [[影片](https://youtu.be/upq6WEAAE3Y)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/13)] |
 | Jim | 20 ~ 21 | [[影片](https://www.facebook.com/jim20515/videos/10210631281448748/)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/14)] |
 | Jeff（王建傑) | 22 | 暫無 | 暫無 |
-| Arthur | 23 | 暫無 | 暫無 |
-| Max | 24 | | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/27) |
+| Allen | 23 | 暫無 | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/29)] |
+| Max | 24 | 暫無 | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/27)] |
 
 ## React Native
 
