@@ -53,3 +53,4 @@
 | 周昱安 | Webpack | [[影片](https://www.youtube.com/watch?v=KEtmaPM_CJI)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/25)] |
 | Andy | NightwachJS + ReactJS todoMVC | [[簡報](https://hackmd.io/p/S1XNx8TT)] [[影片](https://www.facebook.com/bbandydd/videos/o.1115696048514831/1323201874357557/?type=2&theater&notif_t=video_processed&notif_id=1475507491997752)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/26)] |
 | Polo | react-start-kit 與 action reduce 實戰攻略 | [[影片](https://www.youtube.com/watch?v=y6hOTP9_Mog&feature=youtu.be)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/28) |
+| 罡北 | Pure CSS Drawings | [[影片](https://www.youtube.com/watch?v=PlsvW-w0VaE&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/30)] |
