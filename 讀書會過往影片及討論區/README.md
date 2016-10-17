@@ -34,7 +34,7 @@
 | 主講者 | 章節 | 連結 | 討論區 |
 | ------ | ------ | :------: | :-----: |
 | Larry | 1 of 30days | [[簡報](https://hackmd.io/p/ByV3Mjn2#/)] [[影片](https://www.youtube.com/watch?v=b5CmTo5JufU&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/15)] |
-| Larry | 2 of 30days | 暫無 | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/32)] |
+| Larry | 2 of 30days | [[github](https://github.com/larry0220/MysteryC)] [[web demo](https://mystery-c-larry0220.c9users.io/)] [[影片](https://www.youtube.com/watch?v=k9d40rMdtJA&t=1878s)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/32)] |
 
 ## 番外篇
 
@@ -55,4 +55,4 @@
 | Andy | NightwachJS + ReactJS todoMVC | [[簡報](https://hackmd.io/p/S1XNx8TT)] [[影片](https://www.facebook.com/bbandydd/videos/o.1115696048514831/1323201874357557/?type=2&theater&notif_t=video_processed&notif_id=1475507491997752)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/26)] |
 | Polo | react-start-kit 與 action reduce 實戰攻略 | [[影片](https://www.youtube.com/watch?v=y6hOTP9_Mog&feature=youtu.be)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/28) |
 | 罡北 | Pure CSS Drawings | [[影片](https://www.youtube.com/watch?v=PlsvW-w0VaE&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/30)] |
-| carl su | redux-saga | 暫無 | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/31) |
+| carl su | redux-saga | [[blog](https://quip.com/dKmFAdA4a2x0)] [[影片](https://www.youtube.com/watch?v=7z2_clNBUy0)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/31) |
