@@ -52,7 +52,7 @@
 | Howard Chang | Webpack簡介 |  [[Blog](https://rhadow.github.io/2015/04/02/webpack-workflow/)] [[影片](https://www.youtube.com/watch?v=JRIPGi7QUmk)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/24)] |
 | 張國昭 | Redux + ReactJS | [[簡報](http://www.slideshare.net/ssusercab70d/reduxreact-js)] [[影片](https://www.youtube.com/watch?v=FAdOex9v6Yw)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/1)] |
 | 周昱安 | Webpack | [[影片](https://www.youtube.com/watch?v=KEtmaPM_CJI)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/25)] |
-| Andy | NightwachJS + ReactJS todoMVC | [[簡報](https://hackmd.io/p/S1XNx8TT)] [[影片](https://www.facebook.com/bbandydd/videos/o.1115696048514831/1323201874357557/?type=2&theater&notif_t=video_processed&notif_id=1475507491997752)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/26)] |
+| Andy | NightwachJS + ReactJS todoMVC | [[簡報](https://hackmd.io/p/S1XNx8TT)] [[Github](https://github.com/bbandydd/nightwatch_example)] [[影片](https://www.facebook.com/bbandydd/videos/o.1115696048514831/1323201874357557/?type=2&theater&notif_t=video_processed&notif_id=1475507491997752)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/26)] |
 | Polo | react-start-kit 與 action reduce 實戰攻略 | [[影片](https://www.youtube.com/watch?v=y6hOTP9_Mog&feature=youtu.be)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/28) |
 | 罡北 | Pure CSS Drawings | [[影片](https://www.youtube.com/watch?v=PlsvW-w0VaE&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/30)] |
 | carl su | redux-saga | [[blog](https://quip.com/dKmFAdA4a2x0)] [[影片](https://www.youtube.com/watch?v=7z2_clNBUy0)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/31) |
