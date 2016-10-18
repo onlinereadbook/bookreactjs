@@ -34,7 +34,7 @@
 | 主講者 | 章節 | 連結 | 討論區 |
 | ------ | ------ | :------: | :-----: |
 | Larry | 1 of 30days | [[簡報](https://hackmd.io/p/ByV3Mjn2#/)] [[影片](https://www.youtube.com/watch?v=b5CmTo5JufU&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/15)] |
-| Larry | 2 of 30days | [[github](https://github.com/larry0220/MysteryC)] [[web demo](https://mystery-c-larry0220.c9users.io/)] [[影片](https://www.youtube.com/watch?v=k9d40rMdtJA&t=1878s)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/32)] |
+| Larry | 2 of 30days | [[github](https://github.com/larry0220/MysteryC)] [[web demo](https://preview.c9users.io/larry0220/mystery-c/mystery-c-web/index.html)] [[影片](https://www.youtube.com/watch?v=k9d40rMdtJA&t=1878s)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/32)] |
 
 ## 番外篇
 
