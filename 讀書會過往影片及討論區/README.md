@@ -56,4 +56,5 @@
 | Polo | react-start-kit 與 action reduce 實戰攻略 | [[影片](https://www.youtube.com/watch?v=y6hOTP9_Mog&feature=youtu.be)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/28) |
 | 罡北 | Pure CSS Drawings | [[影片](https://www.youtube.com/watch?v=PlsvW-w0VaE&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/30)] |
 | carl su | redux-saga | [[blog](https://quip.com/dKmFAdA4a2x0)] [[影片](https://www.youtube.com/watch?v=7z2_clNBUy0)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/31) |
-| 默司 | 好的Editor帶你上天堂(Visual Studio Code) Part1 | [[設定檔](https://github.com/mosluce/vscode-quick-start/tree/master/settings)] [[影片](https://www.facebook.com/readbook999/videos/1820498281525927/?hc_ref=NEWSFEED)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
+| 默司 | Visual Studio Code 新手村 (1/2) | [[設定檔](https://github.com/mosluce/vscode-quick-start/tree/master/settings)] [[影片](https://www.youtube.com/watch?v=iWsWLv2YzzE)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
+| 默司 | Visual Studio Code 新手村 (2/2) | 暫無 | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
