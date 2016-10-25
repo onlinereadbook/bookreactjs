@@ -58,3 +58,5 @@
 | carl su | redux-saga | [[blog](https://quip.com/dKmFAdA4a2x0)] [[影片](https://www.youtube.com/watch?v=7z2_clNBUy0)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/31) |
 | 默司 | Visual Studio Code 新手村 (1/2) | [[設定檔](https://github.com/mosluce/vscode-quick-start/tree/master/settings)] [[影片](https://www.youtube.com/watch?v=iWsWLv2YzzE)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
 | 默司 | Visual Studio Code 新手村 (2/2) | [[影片](https://www.facebook.com/readbook999/videos/1821206701455085/)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
+| 涼麵 | react 開發優化經驗分享 | [[影片](https://www.facebook.com/readbook999/videos/1822831534625935/)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/34)] |
+| 孟偉 | material-ui | [[影片](https://www.facebook.com/readbook999/videos/1822832427959179/?hc_ref=NEWSFEED)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/35)] |
