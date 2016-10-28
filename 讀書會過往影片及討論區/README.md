@@ -99,3 +99,13 @@
 | 黃彥銘 | git入門到團隊合作 | [[簡報](https://www.slideshare.net/secret/retavuvmp0Vbun)] [[影片](https://www.youtube.com/watch?v=DqYJwg6dvJo&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/20)] |
 
 
+### typescript webpack react redux 
+
+| 主講者 | 主題 | 連結 | 討論區 |
+| ------ | ------ | ------ | ----- |
+|  | react redux  | [[影片](https://www.youtube.com/watch?v=eHDFmHgfVVs]  |
+
+
+
+
+
