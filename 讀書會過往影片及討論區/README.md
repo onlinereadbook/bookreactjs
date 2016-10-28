@@ -103,7 +103,7 @@
 
 | 主講者 | 主題 | 連結 | 討論區 |
 | ------ | ------ | ------ | ----- |
-| 默司 | react redux  | [[影片](https://www.youtube.com/watch?v=eHDFmHgfVVs]  |
+| 默司 | react redux  | [[影片](https://www.youtube.com/watch?v=eHDFmHgfVVs][[GITHUB](https://github.com/mosluce/react-typescript]   |
 
 
 
