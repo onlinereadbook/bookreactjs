@@ -70,6 +70,13 @@
 | 林楊興 | Universal Rendering with React/Redux | [[簡報](http://bit.ly/2bwm6Jd)] [[影片](https://youtu.be/xoMGdasN6cw)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/17)] |
 | Polo | react-start-kit 與 action reduce 實戰攻略 | [[影片](https://www.youtube.com/watch?v=y6hOTP9_Mog&feature=youtu.be)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/28) |
 
+### Isomorphic
+
+| 主講者 | 主題 | 連結 | 討論區 |
+| ------ | ------ | ------ | ----- |
+| Tomas | server-render | [[影片](https://www.youtube.com/watch?v=BbVWl1LStIY)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/38)] |
+
+
 ### 開發環境
 
 | 主講者 | 主題 | 連結 | 討論區 |
@@ -104,7 +111,7 @@
 
 | 主講者 | 主題 | 連結 | 討論區 |
 | ------ | ------ | ------ | ----- |
-| 默司 | react redux |[[影片](https://www.youtube.com/watch?v=eHDFmHgfVVs)] [[GITHUB](https://github.com/mosluce/react-typescript)] |  |
+| 默司 | redux with typescript |[[影片](https://www.youtube.com/watch?v=WzrLmp-1dYg)] [[GITHUB](https://github.com/mosluce/react-typescript)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/37)]  |
 
 
 
