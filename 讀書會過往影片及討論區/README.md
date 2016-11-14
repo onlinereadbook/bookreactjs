@@ -52,6 +52,7 @@
 | ------ | ------ | ------ | ----- |
 | Chunghe Fang | react-native 實戰 - 鉅亨網 app | [[簡報](https://docs.google.com/presentation/d/1F27AKUZMgoaenTz0xqRCaDp2rbWgjRRzMtAU8Ubm9t8/edit#slide=id.p)] [[影片](https://youtu.be/NEmQAC9IMLk)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/3)] |
 | Chunghe Fang | react-native-svg/d3 分享 | [[簡報](https://github.com/chunghe/React-Native-Stock-Chart)] [[影片](https://youtu.be/qeB0pEIajbU)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/16)] |
+| Ch Rick | ReactNative起手式 + Redux | [[影片](https://www.youtube.com/watch?v=RLUqAgbSrPA)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/39)] |
 
 ### Middleware
 
@@ -114,6 +115,11 @@
 | 默司 | redux with typescript |[[影片](https://www.youtube.com/watch?v=WzrLmp-1dYg)] [[GITHUB](https://github.com/mosluce/react-typescript)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/37)]  |
 
 
+### API Document
+
+| 主講者 | 主題 | 連結 | 討論區 |
+| ------ | ------ | ------ | ----- |
+| 默司 | RAML文件產生器 |[[影片](https://www.youtube.com/watch?v=fqoAG2GTIww)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/40)]  |
 
 
 
