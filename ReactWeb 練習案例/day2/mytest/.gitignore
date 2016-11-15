@@ -1,0 +1,21 @@
+# Build directory
+build
+
+# Copied styles for Material UI
+src/style/material-ui
+
+# OS X-specific file
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+# https://www.npmjs.org/doc/misc/npm-faq.html#should-i-check-my-node_modules-folder-into-git-
+node_modules
