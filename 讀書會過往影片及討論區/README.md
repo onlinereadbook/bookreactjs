@@ -63,6 +63,7 @@
 | Polo | graphQL 心得分享 Defining Queries | [[影片](https://www.youtube.com/watch?v=PcO10aBvnA0&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/22)] |
 | Polo | graphQL Defining Mutations | [[影片](https://www.youtube.com/watch?v=ss1vTRAoj-g&feature=youtu.be)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/23)] |
 | carl su | redux-saga | [[blog](https://quip.com/dKmFAdA4a2x0)] [[影片](https://www.youtube.com/watch?v=7z2_clNBUy0)] | [傳送門](https://github.com/onlinereadbook/bookreactjs/issues/31) |
+| 承澤 | React graphQL + Relay 入門 | [[簡報](http://www.slideshare.net/ChenTsuLin/graphgl-relay-introduction)] [[影片](https://youtu.be/K0WEazN9Nf4)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/41)] |
 
 ### Universal
 
