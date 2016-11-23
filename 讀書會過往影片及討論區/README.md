@@ -123,5 +123,10 @@
 | 默司 | RAML文件產生器 |[[影片](https://www.youtube.com/watch?v=fqoAG2GTIww)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/40)]  |
 
 
+### 新手場
 
+| 主講者 | 主題 | 連結 | 討論區 |
+| ------ | ------ | ------ | ----- |
+| Hyman | css3入門 | [[簡報](https://hackmd.io/IYdgZgRgzNELRQBwAYCccAsA2ArPCGGAxpmIgIzmpGoSIQRA)] [[影片](https://youtu.be/xfbDj7Je21E)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/42)] |
+| Andy Tsai | javascript入門 | [[簡報](https://hackmd.io/GYVgLARgjMUMYFoBMAGA7ANgWNKAmCAhhiikWAKZggUYUCceIEQA)] [[影片](https://www.youtube.com/watch?v=SjVbDOP4-zM)] [[土炮Template](https://github.com/bbandydd/ManualTemplate)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/43)] |
 
