@@ -93,7 +93,7 @@
 
 | 主講者 | 主題 | 連結 | 討論區 |
 | ------ | ------ | ------ | ----- |
-| Andy | NightwachJS + ReactJS todoMVC | [[簡報](https://hackmd.io/p/S1XNx8TT)] [[Github](https://github.com/bbandydd/nightwatch_example)] [[影片](https://www.facebook.com/bbandydd/videos/o.1115696048514831/1323201874357557/?type=2&theater&notif_t=video_processed&notif_id=1475507491997752)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/26)] |
+| Andy | NightwachJS + ReactJS todoMVC | [[簡報](https://hackmd.io/p/S1XNx8TT)] [[Github](https://github.com/bbandydd/nightwatch_example)] [[影片](https://www.youtube.com/watch?v=xZ9k_9kvI_Q)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/26)] |
 
 ### UI
 
