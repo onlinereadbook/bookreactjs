@@ -85,8 +85,8 @@
 | ------ | ------ | ------ | ----- |
 | Howard Chang | Webpack簡介 |  [[Blog](https://rhadow.github.io/2015/04/02/webpack-workflow/)] [[影片](https://www.youtube.com/watch?v=JRIPGi7QUmk)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/24)] |
 | 周昱安 | Webpack | [[影片](https://www.youtube.com/watch?v=KEtmaPM_CJI)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/25)] |
-| 默司 | Visual Studio Code 新手村 (1/2) | [[設定檔](https://github.com/mosluce/vscode-quick-start/tree/master/settings)] [[影片](https://www.youtube.com/watch?v=iWsWLv2YzzE)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
-| 默司 | Visual Studio Code 新手村 (2/2) | [[影片](https://www.facebook.com/readbook999/videos/1821206701455085/)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
+| 默司 | Visual Studio Code 新手村 (1/2) | [[設定檔](https://github.com/mosluce/vscode-quick-start/tree/master/settings)] [[影片](https://www.youtube.com/watch?v=rsaqfyDLzQM)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
+| 默司 | Visual Studio Code 新手村 (2/2) | [[影片](https://www.youtube.com/watch?v=zGqICko2_uo)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/33)] |
 | 林一村 | NextJS | [[影片](https://goo.gl/EUqvIT)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/36)] |
 
 ### 測試
