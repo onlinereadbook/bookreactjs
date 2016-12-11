@@ -135,3 +135,12 @@
 | 主講者 | 主題 | 連結 | 討論區 |
 | ------ | ------ | ------ | ----- |
 | 名辰 | Rx.js入門 | [[影片](https://youtu.be/dTgVYF5qHyM)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/44)] |
+
+
+### Meteor
+
+| 主講者 | 主題 | 連結 | 討論區 |
+| ------ | ------ | ------ | ----- |
+| Polo | 日常攻略 step by step 1~8 | [[影片](https://www.youtube.com/watch?v=P0ZbvRKa7VQ)] | |
+| Polo | 日常攻略 step by step 9 | [[影片](https://www.youtube.com/watch?v=x1Qj4E7LvJ0)] | |
+| Polo | 日常攻略 step by step 10~12 | [[影片](https://www.youtube.com/watch?v=gVkJO0ivPmA)] | |
