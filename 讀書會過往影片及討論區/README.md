@@ -130,6 +130,7 @@
 | ------ | ------ | ------ | ----- |
 | Hyman | css3入門 | [[簡報](https://hackmd.io/p/r1hurIObg#/)] [[影片](https://youtu.be/xfbDj7Je21E)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/42)] |
 | Andy Tsai | javascript入門 | [[簡報](https://hackmd.io/p/r1Igzkvgl#/)] [[影片](https://www.youtube.com/watch?v=SjVbDOP4-zM)] [[土炮Template](https://github.com/bbandydd/ManualTemplate)] | [[傳送門](https://github.com/onlinereadbook/bookreactjs/issues/43)] |
+| Andy Tsai | ReactJS Workshop 一日入魂 | [[簡報](https://hackmd.io/p/r1MHEMW4l)] [[影片](https://www.youtube.com/watch?v=7E370OkcBas)] | |  
 
 ### RxJS
 
